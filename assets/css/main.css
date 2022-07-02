@@ -3990,3 +3990,13 @@ label > input[type="checkbox"], label > input[type="radio"] {
 	margin-top: 4em;
 	text-align: center;
 }
+.hobby{
+	border-radius: 25px;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	transition: .4s;
+	width: 10em;
+}
+.hobby:hover{
+	transform: scale(1.1);
+}
